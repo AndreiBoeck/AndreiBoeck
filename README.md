@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [My Portifolio](lambari.xyz)
 
-- 🌱 I’m currently learning **SpringBoot, C++ and Python**
+- 🌱 I’m currently learning **Python and AI**
 
 - 👨‍💻 All of my projects are available at [lambari.xyz](lambari.xyz)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **andrei.boeck@edu.pucrs.br**
 
