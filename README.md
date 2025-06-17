@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Andrei Cunha Böeck</h1>
 <h3 align="center">A computer science student at PUCRS</h3>
 
-- 🔭 I’m currently working on [My Portifolio](lambari.xyz)
+- 🔭 I’m currently working on [My Portifolio](lambari.deb.br)
 
-- 🌱 I’m currently learning **Python and AI**
+- 🌱 I’m currently learning **TypeScript and WebDevelopment**
 
 - 👨‍💻 All of my projects are available at [lambari.xyz](lambari.xyz)
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python*, TypeScript*
 
-- 📫 How to reach me **andrei.boeck@edu.pucrs.br**
+- 📫 How to reach me **andreicunhaboeck@gmail.com**
 
-- ⚡ Fun fact **I love simulation game**
+- ⚡ Fun fact **I love simulation games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
