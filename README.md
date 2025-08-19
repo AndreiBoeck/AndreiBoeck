@@ -1,20 +1,19 @@
 <img align="right" height="200" src="https://lambari.dev.br/assets/peixe2.svg"  />
 
 
-
 <h1 align="center">Hi 👋, I'm Andrei Cunha Böeck</h1>
 
-
-
 <p align="left">A computer science student at PUCRS and FrontEnd developer at ONVIA</p>
-
-
 
 <h2 align="left">About me</h2>
 
 
-
-<p align="left">- 🔭 I’m currently working on Fridge Manager<br><br>- 🌱 I’m currently learning React Native<br><br>- 👨‍💻 All of my projects are available at lambari.dev.br<br><br>- 💬 Ask me about Java, Python, TypeScript<br><br>- 📫 How to reach me andrei@lambari.dev.br<br><br>- ⚡ Fun fact I love simulation games</p>
+  - 🔭 I’m currently working on Fridge Manager<br><br>
+  - 🌱 I’m currently learning React Native<br><br>
+  - 👨‍💻 All of my projects are available at [lambari.dev.br](lambari.dev.br)<br><br>
+  - 💬 Ask me about Java, Python, TypeScript<br><br>
+  - 📫 How to reach me andrei@lambari.dev.br<br><br>
+  - ⚡ Fun fact I love simulation games
 
 
 
@@ -55,5 +54,5 @@
 
 
 
-<p align="left">Go to lambari.dev.br!!</p>
+***Go to [lambari.dev.br](lambari.dev.br)!!***
 
