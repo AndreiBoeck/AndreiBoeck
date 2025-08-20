@@ -2,12 +2,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./header-light.svg" />
-    <img src="./header-dark.svg" alt="Hi 👋, I'm Andrei Cunha Böeck" height="72"/>
+    <img src="./header-dark.svg" alt="Hi 👋, I'm Andrei Cunha Böeck" height="50"/>
   </picture>
 
   <img width="80"/>
 
-  <img src="https://lambari.dev.br/assets/peixe2.svg" height="150"/>
+  <img src="https://lambari.dev.br/assets/peixe2.svg" height="125"/>
 </div>
 
 <br clear="both" />
