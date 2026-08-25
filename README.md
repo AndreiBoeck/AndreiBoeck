@@ -12,7 +12,7 @@
 
 <br clear="both" />
 
-<p align="left"><img src="./spacer.svg" width="84" height="1" alt="">A computer science student at PUCRS and FrontEnd developer at ONVIA</p>
+<p align="left"><img src="./spacer.svg" width="84" height="1" alt="">A computer science student at PUCRS and FullStack & Mobile developer at ONVIA</p>
 
 <h2 align="left">About me</h2>
 
